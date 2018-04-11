@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shallowan-security-browser" />
+        <module name="shallowan-security-core" />
+        <module name="shallowan-security-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shallowan-security" target="1.8" />
+      <module name="shallowan-security-app" target="1.8" />
+      <module name="shallowan-security-browser" target="1.8" />
+      <module name="shallowan-security-core" target="1.8" />
+      <module name="shallowan-security-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

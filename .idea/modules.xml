@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shallowan-security.iml" filepath="$PROJECT_DIR$/shallowan-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shallowan-security-browser/shallowan-security-browser.iml" filepath="$PROJECT_DIR$/shallowan-security-browser/shallowan-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shallowan-security-core/shallowan-security-core.iml" filepath="$PROJECT_DIR$/shallowan-security-core/shallowan-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shallowan-security-demo/shallowan-security-demo.iml" filepath="$PROJECT_DIR$/shallowan-security-demo/shallowan-security-demo.iml" />
+    </modules>
+  </component>
+</project>

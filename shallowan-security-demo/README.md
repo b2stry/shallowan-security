@@ -57,15 +57,17 @@ JsonPath Github地址：https://github.com/json-path/JsonPath
 
 `@RequestBody 映射请求体到Java方法的参数`
 
-`@JsonView使用步骤：`
 
-`使用接口来声明多个视图`
+@JsonView使用步骤：
 
-`在值对象的get方法上指定视图`
+使用接口来声明多个视图
 
-`在Controller方法上指定视图`
+在值对象的get方法上指定视图
 
-Hibernate Validator
+在Controller方法上指定视图
+
+
+### Hibernate Validator
 
 `@NotNull        值不能为空`
 
